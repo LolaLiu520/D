@@ -1,0 +1,10 @@
+{
+    "loginToSystem":"立即登录",
+    "isRequired":"必填",
+    "ownerApply":"货主申请",
+    "password":"密码",
+    "account":"账号",
+    "plsEnter":"请输入",
+    "accountTips":"账号必须是5~10个字母或者数字~",
+    "passwordTips":"密码必须是3位以上的字母或者数字~"
+}

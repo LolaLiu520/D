@@ -1,0 +1,19 @@
+{
+    "customerStyle":"Customer style",
+    "normalCustomer":"Normal customer",
+    "vipCustomer":"Vip Customer",
+    "openCredit":"Open credit",
+    "yes":"Yes",
+    "no":"No",
+    "activeFlag":"Active flag",
+    "creatStatus":"Creat status",
+    "openStatus":"Open status",
+    "closeStatus":"Close status",
+    "customerName":"Customer name",
+    "operation":"Operation",
+    "addCustomers":"Add customers",
+    "keywordsPlaceholder":"Search by customer name, customer description and other information",
+    "startTime":"StartTime",
+    "batch":"Batch",
+    "customerInfo":"Customer information"
+}

@@ -1,0 +1,10 @@
+{
+    "loginToSystem":"Login to system",
+    "isRequired":"is required",
+    "ownerApply":"Owner apply",
+    "password":"Password",
+    "account":"Account",
+    "plsEnter":"Please enter",
+    "accountTips":"Account must be 5~10 letters or numbers~",
+    "passwordTips":"The password must be more than 3 letters or numbers~"
+}

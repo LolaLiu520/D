@@ -1,0 +1,17 @@
+{
+    "customerStyle":"客户类别",
+    "normalCustomer":"普通客户",
+    "vipCustomer":"vip客户",
+    "openCredit":"启用信用",
+    "yes":"是",
+    "no":"否",
+    "activeFlag":"活动标记",
+    "creatStatus":"创建状态",
+    "openStatus":"开启状态",
+    "closeStatus":"关闭状态",
+    "customerName":"客户名称",
+    "operation":"操作",
+    "addCustomers":"新增客户",
+    "keywordsPlaceholder":"通过客户名称、客户描述等信息搜索",
+    "startTime":"开始时间"
+}
